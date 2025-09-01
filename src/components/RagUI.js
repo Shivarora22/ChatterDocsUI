@@ -114,7 +114,7 @@ export default function RagUI() {
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-white mb-2">
             <MessageCircle className="inline-block mr-3 text-purple-400" size={40} />
-            RAG Document Assistant
+            ChatterDocs
           </h1>
           <p className="text-purple-200">Upload PDFs and ask questions about their content</p>
         </div>
